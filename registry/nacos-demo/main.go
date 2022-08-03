@@ -7,7 +7,7 @@ import (
 	"github.com/asim/go-micro/v3/logger"
 	"github.com/asim/go-micro/v3/registry"
 	"github.com/nacos-group/nacos-sdk-go/v2/common/constant"
-	"my-micro/registry/nacos"
+	"github.com/topwhere/go-micro/registry/nacos"
 )
 
 const (
